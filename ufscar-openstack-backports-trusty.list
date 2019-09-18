@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/ufscar/openstack-backports/ubuntu trusty main
+# deb-src http://ppa.launchpad.net/ufscar/openstack-backports/ubuntu trusty main
