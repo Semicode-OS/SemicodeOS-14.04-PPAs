@@ -1,0 +1,3 @@
+deb http://ppa.launchpad.net/cz.nic-labs/knot-dns-latest/ubuntu trusty main
+# deb-src http://ppa.launchpad.net/cz.nic-labs/knot-dns-latest/ubuntu trusty main
+# deb-src http://ppa.launchpad.net/cz.nic-labs/knot-dns-latest/ubuntu trusty main

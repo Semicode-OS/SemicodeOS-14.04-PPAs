@@ -1,0 +1,4 @@
+deb http://ppa.launchpad.net/ansible/ansible-2.7/ubuntu trusty main
+# deb-src http://ppa.launchpad.net/ansible/ansible-2.7/ubuntu trusty main
+# deb-src http://ppa.launchpad.net/ansible/ansible-2.7/ubuntu trusty main
+# deb-src http://ppa.launchpad.net/ansible/ansible-2.7/ubuntu trusty main
